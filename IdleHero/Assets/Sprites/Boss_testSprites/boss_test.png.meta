@@ -1,0 +1,179 @@
+fileFormatVersion: 2
+guid: e043f812a430a1d4c91f3678ad237649
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: boss_test_0
+    21300002: boss_test_1
+    21300004: boss_test_2
+    21300006: boss_test_3
+    21300008: boss_test_4
+    21300010: boss_test_5
+    21300012: boss_test_6
+    21300014: boss_test_7
+    21300016: boss_test_8
+    21300018: boss_test_9
+    21300020: boss_test_10
+    21300022: boss_test_11
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: 0
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: boss_test_0
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 907
+        width: 285
+        height: 358
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: boss_test_1
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 909
+        width: 297
+        height: 356
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: boss_test_2
+      rect:
+        serializedVersion: 2
+        x: 825
+        y: 915
+        width: 356
+        height: 347
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: boss_test_3
+      rect:
+        serializedVersion: 2
+        x: 1220
+        y: 915
+        width: 324
+        height: 370
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: boss_test_4
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 467
+        width: 336
+        height: 411
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: boss_test_5
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 465
+        width: 312
+        height: 430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: boss_test_6
+      rect:
+        serializedVersion: 2
+        x: 803
+        y: 462
+        width: 283
+        height: 431
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: boss_test_7
+      rect:
+        serializedVersion: 2
+        x: 1202
+        y: 462
+        width: 262
+        height: 422
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: boss_test_8
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 12
+        width: 280
+        height: 413
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: boss_test_9
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 12
+        width: 330
+        height: 402
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: boss_test_10
+      rect:
+        serializedVersion: 2
+        x: 841
+        y: 16
+        width: 359
+        height: 323
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: boss_test_11
+      rect:
+        serializedVersion: 2
+        x: 1233
+        y: 0
+        width: 345
+        height: 339
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 

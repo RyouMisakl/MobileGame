@@ -1,0 +1,212 @@
+fileFormatVersion: 2
+guid: 4cb373d0e08f5434abee90630a316d9e
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Effect_Explosion_0
+    21300002: Effect_Explosion_1
+    21300004: Effect_Explosion_2
+    21300006: Effect_Explosion_3
+    21300008: Effect_Explosion_4
+    21300010: Effect_Explosion_5
+    21300012: Effect_Explosion_6
+    21300014: Effect_Explosion_7
+    21300016: Effect_Explosion_8
+    21300018: Effect_Explosion_9
+    21300020: Effect_Explosion_10
+    21300022: Effect_Explosion_11
+    21300024: Effect_Explosion_12
+    21300026: Effect_Explosion_13
+    21300028: Effect_Explosion_14
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Effect_Explosion_0
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 463
+        width: 39
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Effect_Explosion_1
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 462
+        width: 47
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Effect_Explosion_2
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 463
+        width: 73
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Effect_Explosion_3
+      rect:
+        serializedVersion: 2
+        x: 628
+        y: 456
+        width: 86
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Effect_Explosion_4
+      rect:
+        serializedVersion: 2
+        x: 826
+        y: 444
+        width: 82
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Effect_Explosion_5
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 220
+        width: 129
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Effect_Explosion_6
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 193
+        width: 190
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Effect_Explosion_7
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 193
+        width: 190
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Effect_Explosion_8
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 193
+        width: 190
+        height: 190
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Effect_Explosion_9
+      rect:
+        serializedVersion: 2
+        x: 769
+        y: 193
+        width: 190
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Effect_Explosion_10
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1
+        width: 189
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Effect_Explosion_11
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 2
+        width: 184
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Effect_Explosion_12
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 40
+        width: 110
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Effect_Explosion_13
+      rect:
+        serializedVersion: 2
+        x: 618
+        y: 40
+        width: 108
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Effect_Explosion_14
+      rect:
+        serializedVersion: 2
+        x: 786
+        y: 11
+        width: 147
+        height: 160
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
